@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/abdalla19977/SenraiseLib.svg)](https://jitpack.io/#abdalla19977/SenraiseLib)
+
 # SenraisePrinter
 
 Wrapper library for Senraise POS printers

@@ -34,9 +34,11 @@ class SenraisePrinterHelper {
             senraisePrinterService = null
         }
     }
-    var leftAlignment: Int = 0
-    var centerAlignment: Int = 1
-    var rightAlignment: Int = 2
+    companion object {
+        const val LEFT_ALIGN = 0
+        const val CENTER_ALIGN = 1
+        const val RIGHT_ALIGN = 2
+    }
 
 
     fun init(context: Context) {
